@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Nouveau dossier\\appel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8C930D-734B-45EA-8568-C88E81524B78}|appel\\appel.vbproj|c:\\users\\user\\desktop\\nouveau dossier\\appel\\appel\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DE8C930D-734B-45EA-8568-C88E81524B78}|appel\\appel.vbproj|solutionrelative:appel\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8C930D-734B-45EA-8568-C88E81524B78}|appel\\appel.vbproj|c:\\users\\user\\desktop\\nouveau dossier\\appel\\appel\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DE8C930D-734B-45EA-8568-C88E81524B78}|appel\\appel.vbproj|solutionrelative:appel\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nouveau dossier\\appel\\appel\\Form1.vb",
+              "RelativeDocumentMoniker": "appel\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nouveau dossier\\appel\\appel\\Form1.vb",
+              "RelativeToolTip": "appel\\Form1.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAA9wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T19:13:54.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Nouveau dossier\\appel\\appel\\Form1.vb",
+              "RelativeDocumentMoniker": "appel\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Nouveau dossier\\appel\\appel\\Form1.vb [Conception]",
+              "RelativeToolTip": "appel\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T19:00:39.872Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

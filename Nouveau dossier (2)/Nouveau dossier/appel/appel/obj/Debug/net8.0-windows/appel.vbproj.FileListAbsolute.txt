@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\bin\Debug\net8.0-windows\appel.exe
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\bin\Debug\net8.0-windows\appel.deps.json
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\bin\Debug\net8.0-windows\appel.runtimeconfig.json
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\bin\Debug\net8.0-windows\appel.dll
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\bin\Debug\net8.0-windows\appel.pdb
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.Form1.resources
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.AssemblyInfo.vb
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.dll
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\refint\appel.dll
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.pdb
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\appel.genruntimeconfig.cache
+C:\Users\user\Desktop\Nouveau dossier\appel\appel\obj\Debug\net8.0-windows\ref\appel.dll

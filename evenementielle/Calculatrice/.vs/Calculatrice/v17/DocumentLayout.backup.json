@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|c:\\users\\user\\desktop\\evenementielle\\calculatrice\\calculatrice\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|solutionrelative:calculatrice\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|c:\\users\\user\\desktop\\evenementielle\\calculatrice\\calculatrice\\frm calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|solutionrelative:calculatrice\\frm calculatrice.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|c:\\users\\user\\desktop\\evenementielle\\calculatrice\\calculatrice\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3975A670-4BC9-4AB2-A533-D5A88F00DCBA}|calculatrice\\calculatrice.vbproj|solutionrelative:calculatrice\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\Form1.vb",
+              "RelativeDocumentMoniker": "Calculatrice\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\Form1.vb [Conception]",
+              "RelativeToolTip": "Calculatrice\\Form1.vb [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T07:38:31.051Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "Calculatrice\\ApplicationEvents.vb",
+              "ToolTip": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\ApplicationEvents.vb",
+              "RelativeToolTip": "Calculatrice\\ApplicationEvents.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T07:38:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm calculatrice.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\frm calculatrice.vb",
+              "RelativeDocumentMoniker": "Calculatrice\\frm calculatrice.vb",
+              "ToolTip": "C:\\Users\\user\\Desktop\\evenementielle\\Calculatrice\\Calculatrice\\frm calculatrice.vb",
+              "RelativeToolTip": "Calculatrice\\frm calculatrice.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-24T07:38:22.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

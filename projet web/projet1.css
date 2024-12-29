@@ -1,0 +1,251 @@
+footer {
+    background-color: rgb(243, 235, 235);
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+}
+a { 
+    color: inherit; 
+    text-decoration: none; 
+}
+
+.footer-columns {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    list-style: none;
+}
+
+.footer-column {
+    width: 45%;
+    list-style: none;
+}
+
+.footer-column h4 {
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    color: #333;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column li  {
+    margin: 5px 0;
+    color:black;
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer-column li :hover {
+    text-decoration: underline black;
+}
+
+.footer-column li::before {
+    color: black;
+}
+
+.copyright {
+    margin-top: 20px;
+    text-align: center;
+    color: #684f4f;
+}
+
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    border-radius: 20px;
+    margin: 0;
+    background-color: rgba(253, 241, 225, 0);
+}
+
+nav ul li {
+    
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    display: block;
+    padding: 20px;
+    text-align: left;
+    border-bottom : 2px solid #c5b9b9;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(146, 128, 105);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(235, 235, 191, 0);
+    border-radius: 5px;
+}
+
+nav ul li:hover .dropdown {
+    display: block;
+    
+}
+nav ul li:hover{
+background-color: beige;
+border-radius: 5px;
+transform: scale(1.1);
+}
+nav{ 
+    display: flex;
+}
+
+.dropdown {
+    top: 90%;
+    display: none;
+    position:absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    z-index: 10;
+    padding: 5px 0;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+.dropdown ul {
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    background-color: transparent;
+    display: block;
+}
+
+.dropdown ul li {
+    font-size: large;
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    text-align: left;
+}
+
+.carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type:mandatory;
+}
+
+.carousel-item {
+    flex: 0 0 auto;
+    min-width: 90px;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    scroll-snap-align: start;
+    height: 1px;
+    padding-top: 5px;
+}
+
+.dropdown li {
+    border-radius: 0px;
+}
+
+.t {
+    background-color: rgb(254, 255, 252);
+    transition: background-color 0.5s;
+}
+
+a:hover {
+    background-color: rgba(255, 196, 196, 0.021);
+}
+
+header p {
+    text-shadow: #f7e0f5;
+    color: rgb(247, 235, 219);
+    text-align: start;
+    margin-top: 20px;
+    padding-top: 30px;
+    font-size: larger;
+}
+
+header {
+    background-image: url(image/h.jpg);
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 290px;
+}
+h2{
+    color:rgb(206, 194, 180);
+    text-align: center;
+    padding-left: 15px;
+    
+}
+.image{
+     width: 100%;
+     height: 250px;
+     border-radius: 7px;
+     padding-left: 0px;
+     padding-bottom: 10px;
+     transition: transform 0.3s ease;
+     display: flex;
+     flex-wrap: wrap;
+     gap: 10px;
+}
+.img{
+    flex-direction: row;
+     display: flex; 
+     align-items: center;
+     justify-content:center;
+    text-align: center; 
+    flex-wrap: wrap;
+     
+}
+.image:hover { transform: scale(1.1);}
+
+span p{
+    padding-left: 17px;
+    
+}
+.p {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    margin: 40px; 
+    flex-wrap: wrap;
+  }
+  .ba {
+    width: 100%; 
+    background-color: #f8f5e8;
+    color: #000; 
+    font-size: 18px; 
+    font-weight: bold;
+    text-align: center; 
+    padding-bottom: 0.1px; 
+    padding-top: 0px;
+    margin-bottom: 1px;
+    position: relative; 
+    overflow: hidden; 
+    z-index: 999;
+  }
+  .ba p {
+    font-size: larger;
+    color: #684f4fbe;
+    left: 100%;
+    width: 100%;
+    display: inline-block; 
+    position:relative; 
+    white-space: nowrap; 
+    animation: defilement 16s linear infinite; 
+  }
+  @keyframes defilement {
+    from {
+      left: 100%; 
+    }
+    to {
+      left: -100%; 
+    }
+
+}
+
+
+
+
+

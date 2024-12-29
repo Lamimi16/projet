@@ -1,0 +1,18 @@
+package exercice;
+
+public class ex {
+	
+	    public static void main (String[] args) {
+	        
+	            String ch1 = args[1];
+	            String ch2 = args[2];
+	            int nb = Integer.parseInt(ch2);
+	            for (int i = 0; i <= nb; i++) {
+	                System.out.println("bonjour");
+	               
+	            }
+	        }
+	    }
+	
+
+
